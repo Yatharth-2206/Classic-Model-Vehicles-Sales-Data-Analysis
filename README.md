@@ -101,7 +101,7 @@ Built by **Yatharth** as part of a hands-on **Business Analytics Portfolio**.
 
 📍 Gwalior, India &nbsp;|&nbsp;
 
-[![LinkedIn](www.linkedin.com/in/yatharth-aphale-338b203b8)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/yatharth-aphale-338b203b8)
 
 
 *⭐ If you found this useful, drop a star — it helps others discover the project!*
