@@ -19,7 +19,7 @@ A fully interactive **Business Intelligence Dashboard** built on the **ClassicMo
 - 🌍 Which countries, products, and sales reps are driving results?
 - 🧩 How does each product line contribute to total sales?
 
----
+--- 
 
 ## ⚡ Key Metrics at a Glance
 
